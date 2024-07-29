@@ -1,7 +1,0 @@
-names:
-- letter
-- logo
-nc: 2
-test: /starbucks/data/images
-train: /starbucks/data/images
-val: /starbucks/data/images
